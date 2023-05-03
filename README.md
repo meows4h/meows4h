@@ -4,6 +4,22 @@
 
 plz be nice,,
 
+currently working on:
+- learning C
+- not losing my mind on my stupid graphing program (python)
+- learning python libraries that everyone i know just pulls out of thin air
+
+hobbies:
+- playing destiny
+- playing destiny
+- playing destiny
+- playing destiny
+- sometimes rocket league
+- sometimes soulsbourne games
+- a hint of celeste
+- heck, even apex, csgo, valorant
+- overall an avid not fun haver on video games <3
+
 <!--
 **vixicat/vixicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
