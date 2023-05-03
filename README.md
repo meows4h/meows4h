@@ -1,4 +1,8 @@
-### Hi there 👋
+### henlo.
+
+## im a dumby who swapped from graphic design to computer science!!
+
+plz be nice,,
 
 <!--
 **vixicat/vixicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
