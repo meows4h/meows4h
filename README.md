@@ -18,8 +18,8 @@ hobbies:
 - sometimes soulsbourne games
 - a hint of celeste
 - heck, even apex, csgo, valorant
-- overall an avid not fun haver on video games 
-- your mother
+- overall an avid not fun haver on video games :)
+![image_test](https://github.com/vixicat/vixicat/blob/478783c97b3253cc2a87459ffa0b37932f983fc7/conqueror%20of%20the%20abyss.PNG)
 <!--
 **vixicat/vixicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
