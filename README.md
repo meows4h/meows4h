@@ -18,8 +18,8 @@ hobbies:
 - sometimes soulsbourne games
 - a hint of celeste
 - heck, even apex, csgo, valorant
-- overall an avid not fun haver on video games <3
-
+- overall an avid not fun haver on video games 
+- your mother
 <!--
 **vixicat/vixicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
