@@ -22,4 +22,4 @@ hobbies:
 #### i compete in destiny 2 raid races, in which i have placed 29th in the world in one.
 ![image 2](https://media.discordapp.net/attachments/1099105715051823144/1104708883739590696/image.png?width=707&height=701)
 
-feel free to reach out via discord @ v.cat or reach me via email: cjbeeawesome@gmail.com
+feel free to reach out via discord @ v.cat or reach me via email: rox.beecher@gmail.com
