@@ -6,11 +6,10 @@ i go by vcat, vixi, i use any pronouns.
 plz be nice
 
 currently working on:
-- learning C & C++
 - python data creation and analysis (Destiny2DPS)
-- learning more python libraries (Socket among others atm)
 - my website (vixicat.github.io)
-- furthering my skill in js and node modules
+- furthering my skill in js & node modules
+- learning more c++ & python libraries
 
 hobbies:
 - playing destiny
