@@ -6,19 +6,17 @@ i go by vcat, vixi, i use any pronouns.
 plz be nice
 
 currently working on:
-- python data creation and analysis (Destiny2DPS)
-- my website (vixicat.github.io)
-- furthering my skill in js & node modules
-- learning more c++ & python libraries
+- learning more c, c++, python, html, css, and javascript
+- diy machine learning studies w/ python
+- minor game development
+- studying design concepts
 
 hobbies:
-- playing destiny
-- playing destiny
-- sometimes rocket league
-- sometimes soulsbourne games
-- apex, csgo, valorant
+- i play a fair bit of video games, a lot of ffxiv at the moment!
+- some other games i play include destiny 2, rocket league, dark souls and a couple others
+- studying various topics and subjects
+- photography & drawing
 
-#### i compete in destiny 2 raid races, in which i have placed 29th in the world in one.
-![image 2](https://media.discordapp.net/attachments/1099105715051823144/1104708883739590696/image.png?width=707&height=701)
+#### i compete in destiny 2 raid races, in which i have placed 29th in the world in one, as well as top 500 in a couple others.
 
 feel free to reach out via discord @ v.cat or reach me via email: rox.beecher@gmail.com
