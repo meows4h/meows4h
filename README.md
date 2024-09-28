@@ -6,7 +6,7 @@ i go by rox; alternatively, meows or meow
 currently working on:
 - learning more c, c++, python, html, css, and javascript
 - machine learning studies w/ python
-- minor game development
+- basic game development
 - studying design concepts
 
 hobbies:
