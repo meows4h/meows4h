@@ -1,7 +1,7 @@
 ## hello!
 
 ### im a uni student who swapped from graphic design to comp sci.
-i go by rox
+i go by rox, i study a wide range of concepts that interest me in relation to cmoputer science
 
 current classes:
 - computer graphics (cs450)
