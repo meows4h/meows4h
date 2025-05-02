@@ -9,8 +9,8 @@ i go by rox, i study a wide range of concepts that interest me in relation to co
 - usability engineering (cs352)
 
 ### noteable previous classes:
-- computer graphics (cs450) : using GLUT and OpenGL to code 3D graphics in C++
-- software engineering I (cs361) : AGILE development, project planning, and microservice implementation
+- computer graphics (cs450) & shaders (cs457) : using GLUT and OpenGL to code 3D graphics in C++, as well as various shader effects
+- software engineering I (cs361) & II (cs362) : code review, repository management, on top of AGILE development, project planning, and microservice implementation
 - operating systems I (cs374) : creation of basic bash cli using C
 - assembly & architecture (cs271) : coding in ASM and further computer hardware understanding
 - databases (cs340) : database design using SQL and MariaDB, as well as connecting a front end website using Node and JavaScript
