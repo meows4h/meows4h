@@ -1,9 +1,10 @@
 ## hello!
 
-im a uni student who swapped from graphic design to comp sci.
+im a uni student who changed majors from graphic design to comp sci.
 i go by rox, i study a wide range of concepts that interest me in relation to computer science
 
 ### current classes:
+- intro to security (cs370)
 
 ### noteable previous classes:
 - intro to parallel programming (cs475) : using OpenMP, Cuda, among other parallel processing APIs to program and run simulations in parallel
@@ -16,8 +17,8 @@ i go by rox, i study a wide range of concepts that interest me in relation to co
 
 ### hobbies + fun facts:
 - big fan of FFXIV
-- design and video editing, usually online content for consumption or guides for people to follow along to
-- photography, typically taking portraits of people or pictures of landscape
+- design and video editing, usually online content for fun or guides for people to follow along to
+- photography, typically taking portraits or nature landscape photos
 - drawing, interior space sketching
 - i competed in destiny 2 world first raid races, in which i have placed 29th in the world in lightfall, as well as top 500 in a couple others
 
