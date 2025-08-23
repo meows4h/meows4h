@@ -4,10 +4,11 @@ im a uni student who changed majors from graphic design to comp sci.
 i go by rox, i study a wide range of concepts that interest me in relation to computer science
 
 ### current classes:
-- intro to security (cs370)
+- capstone progress
 
 ### noteable previous classes:
 - intro to parallel programming (cs475) : using OpenMP, Cuda, among other parallel processing APIs to program and run simulations in parallel
+- intro to security (cs370) : hashing, collision testing, php/web application security; built a 2FA application using Google Authenticator
 - computer graphics (cs450) & shaders (cs457) : using GLUT and OpenGL to code 3D graphics in C++, programming various shader effects
 - software engineering I (cs361) & II (cs362) : code review, repository management, AGILE development, project planning, and microservice implementation
 - operating systems I (cs374) : creation of basic bash cli using C
