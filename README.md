@@ -17,7 +17,7 @@ i go by rox, i study a wide range of concepts that interest me in relation to co
 - algorithms (cs325) : understanding time and space complexity of recursive algorithms, understanding alternative efficient methods of problem solving
 
 ### hobbies + fun facts:
-- big fan of FFXIV
+- FFXIV endgame and ultimate raider
 - design and video editing, usually online content for fun or guides for people to follow along to
 - photography, typically taking portraits or nature landscape photos
 - drawing, interior space sketching
