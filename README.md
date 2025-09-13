@@ -23,4 +23,6 @@ i go by rox, i study a wide range of concepts that interest me in relation to co
 - drawing, interior space sketching
 - i competed in destiny 2 world first raid races, in which i have placed 29th in the world in lightfall, as well as top 500 in a couple others
 
+![ffxiv screenshot of my character](./assets/meows.png)
+
 #### feel free to reach out via discord @ v.cat or reach me via email: rox.beecher@gmail.com
