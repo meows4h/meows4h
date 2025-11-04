@@ -4,7 +4,8 @@ im a uni student who changed majors from graphic design to comp sci.
 i go by rox, i study a wide range of concepts that interest me in relation to computer science
 
 ### current classes:
-- capstone progress
+- capstone progress : 2d metroidvania development in Unity
+- machine learning and data mining (cs464) : covering creation of models, math behind them, and how to classify datasets
 
 ### noteable previous classes:
 - intro to parallel programming (cs475) : using OpenMP, Cuda, among other parallel processing APIs to program and run simulations in parallel
@@ -20,8 +21,8 @@ i go by rox, i study a wide range of concepts that interest me in relation to co
 - FFXIV endgame and ultimate raider
 - design and video editing, usually online content for fun or guides for people to follow along to
 - photography, typically taking portraits or nature landscape photos
-- drawing, interior space sketching
-- i competed in destiny 2 world first raid races, in which i have placed 29th in the world in lightfall, as well as top 500 in a couple others
+- drawing & sketching, cartoon and interior spaces
+- i competed in destiny 2 world first raid races, in which i have placed 29th in the world in Root of Nightmares, 56th in Epic Desert Perpetual as well as top 500 in a couple others
 
 ![ffxiv screenshot of my character](./assets/meows.png)
 
