@@ -1,4 +1,4 @@
-![screenshot of my ffxiv character](./assets/pct.png)
+![screenshot of my ffxiv character](./assets/meows3.png)
 
 # hello! you can call me `rox` or `meows`!
 im a university student & programmer with a wide range of interests. i do anything from game development to video editing to database design. im also a high ranked `destiny 2` and `ffxiv` raider, with a strong emphasis on self improvement in my skills above all else.
