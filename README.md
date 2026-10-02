@@ -1,4 +1,4 @@
-# hello! you can call me `rox`!
+# hello!
 im a university graduate & programmer with a wide range of interests. i do anything from game development to video editing to database management.
 
 my projects of focus are: 
